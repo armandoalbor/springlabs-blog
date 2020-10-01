@@ -1,0 +1,431 @@
+{
+  "posts": [
+  {
+    "id": 1,
+    "cover": "https://material-ui.com/static/images/cards/paella.jpg",
+    "title": "Causas frecuentes del estrés 001",
+    "author": "Ana María Andrade",
+    "publishDate": 1580502468981,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 2,
+    "likes": 15,
+    "views": 422,
+    "shareLink": "causas-frecuentes-del-estres-001",
+    "category": {
+      "name": "technology",
+      "display": "Tecnología",
+      "popular": true
+    },
+    "popular": false
+  },
+  {
+    "id": 2,
+    "cover": "https://material-ui.com/static/images/cards/live-from-space.jpg",
+    "title": "Causas frecuentes del estrés 002",
+    "author": "Ana María Andrade",
+    "publishDate": 1578392087188,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 2,
+    "likes": 43,
+    "views": 235,
+    "shareLink": "causas-frecuentes-del-estres-002",
+    "category": {
+      "name": "covid-19",
+      "display": "Covid-19"
+    },
+    "popular": true
+  },
+  {
+    "id": 3,
+    "cover": "http://localhost:5000/img/blg_1@2x.png",
+    "title": "Causas frecuentes del estrés 003",
+    "author": "Ana María Andrade",
+    "publishDate": 1584699312288,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 3,
+    "likes": 35,
+    "views": 416,
+    "shareLink": "causas-frecuentes-del-estres-003",
+    "category": {
+      "name": "health",
+      "display": "Salud",
+      "popular": true
+    },
+    "popular": false
+  },
+  {
+    "id": 4,
+    "cover": "https://material-ui.com/static/images/cards/live-from-space.jpg",
+    "title": "Causas frecuentes del estrés 004",
+    "author": "Ana María Andrade",
+    "publishDate": 1596511746222,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 7,
+    "likes": 28,
+    "views": 292,
+    "shareLink": "causas-frecuentes-del-estres-004",
+    "category": {
+      "name": "sexuality",
+      "display": "Sexualidad"
+    },
+    "popular": false
+  },
+  {
+    "id": 5,
+    "cover": "https://material-ui.com/static/images/cards/paella.jpg",
+    "title": "Causas frecuentes del estrés 005",
+    "author": "Ana María Andrade",
+    "publishDate": 1593267007017,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 6,
+    "likes": 48,
+    "views": 185,
+    "shareLink": "causas-frecuentes-del-estres-005",
+    "category": {
+      "name": "technology",
+      "display": "Tecnología",
+      "popular": true
+    },
+    "popular": true
+  },
+  {
+    "id": 6,
+    "cover": "https://material-ui.com/static/images/cards/paella.jpg",
+    "title": "Causas frecuentes del estrés 006",
+    "author": "Ana María Andrade",
+    "publishDate": 1591981038425,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 10,
+    "likes": 50,
+    "views": 251,
+    "shareLink": "causas-frecuentes-del-estres-006",
+    "category": {
+      "name": "sexuality",
+      "display": "Sexualidad"
+    },
+    "popular": false
+  },
+  {
+    "id": 7,
+    "cover": "http://localhost:5000/img/blg_1@2x.png",
+    "title": "Causas frecuentes del estrés 007",
+    "author": "Ana María Andrade",
+    "publishDate": 1590185837379,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 9,
+    "likes": 37,
+    "views": 437,
+    "shareLink": "causas-frecuentes-del-estres-007",
+    "category": {
+      "name": "actuality",
+      "display": "Actualidad",
+      "popular": true
+    },
+    "popular": true
+  },
+  {
+    "id": 8,
+    "cover": "https://material-ui.com/static/images/cards/contemplative-reptile.jpg",
+    "title": "Causas frecuentes del estrés 008",
+    "author": "Ana María Andrade",
+    "publishDate": 1578103442379,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 10,
+    "likes": 24,
+    "views": 435,
+    "shareLink": "causas-frecuentes-del-estres-008",
+    "category": {
+      "name": "psychology",
+      "display": "Psicología",
+      "popular": true
+    },
+    "popular": false
+  },
+  {
+    "id": 9,
+    "cover": "https://material-ui.com/static/images/cards/live-from-space.jpg",
+    "title": "Causas frecuentes del estrés 009",
+    "author": "Ana María Andrade",
+    "publishDate": 1580344064703,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 7,
+    "likes": 42,
+    "views": 344,
+    "shareLink": "causas-frecuentes-del-estres-009",
+    "category": {
+      "name": "psychology",
+      "display": "Psicología",
+      "popular": true
+    },
+    "popular": false
+  },
+  {
+    "id": 10,
+    "cover": "https://material-ui.com/static/images/cards/live-from-space.jpg",
+    "title": "Causas frecuentes del estrés 0010",
+    "author": "Ana María Andrade",
+    "publishDate": 1589688462269,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 1,
+    "likes": 6,
+    "views": 375,
+    "shareLink": "causas-frecuentes-del-estres-0010",
+    "category": {
+      "name": "innovation",
+      "display": "Innovación"
+    },
+    "popular": true
+  },
+  {
+    "id": 11,
+    "cover": "https://material-ui.com/static/images/cards/contemplative-reptile.jpg",
+    "title": "Causas frecuentes del estrés 0011",
+    "author": "Ana María Andrade",
+    "publishDate": 1593472357365,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 6,
+    "likes": 39,
+    "views": 214,
+    "shareLink": "causas-frecuentes-del-estres-0011",
+    "category": {
+      "name": "innovation",
+      "display": "Innovación"
+    },
+    "popular": true
+  },
+  {
+    "id": 12,
+    "cover": "http://localhost:5000/img/blg_1@2x.png",
+    "title": "Causas frecuentes del estrés 0012",
+    "author": "Ana María Andrade",
+    "publishDate": 1583686879803,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 5,
+    "likes": 17,
+    "views": 58,
+    "shareLink": "causas-frecuentes-del-estres-0012",
+    "category": {
+      "name": "prevention",
+      "display": "Prevención"
+    },
+    "popular": true
+  },
+  {
+    "id": 13,
+    "cover": "https://material-ui.com/static/images/cards/paella.jpg",
+    "title": "Causas frecuentes del estrés 0013",
+    "author": "Ana María Andrade",
+    "publishDate": 1598444966611,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 10,
+    "likes": 26,
+    "views": 31,
+    "shareLink": "causas-frecuentes-del-estres-0013",
+    "category": {
+      "name": "psychology",
+      "display": "Psicología",
+      "popular": true
+    },
+    "popular": true
+  },
+  {
+    "id": 14,
+    "cover": "https://material-ui.com/static/images/cards/live-from-space.jpg",
+    "title": "Causas frecuentes del estrés 0014",
+    "author": "Ana María Andrade",
+    "publishDate": 1589206721153,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 2,
+    "likes": 40,
+    "views": 96,
+    "shareLink": "causas-frecuentes-del-estres-0014",
+    "category": {
+      "name": "prevention",
+      "display": "Prevención"
+    },
+    "popular": false
+  },
+  {
+    "id": 15,
+    "cover": "https://material-ui.com/static/images/cards/paella.jpg",
+    "title": "Causas frecuentes del estrés 0015",
+    "author": "Ana María Andrade",
+    "publishDate": 1580258043353,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 9,
+    "likes": 45,
+    "views": 29,
+    "shareLink": "causas-frecuentes-del-estres-0015",
+    "category": {
+      "name": "prevention",
+      "display": "Prevención"
+    },
+    "popular": false
+  },
+  {
+    "id": 16,
+    "cover": "http://localhost:5000/img/blg_1@2x.png",
+    "title": "Causas frecuentes del estrés 0016",
+    "author": "Ana María Andrade",
+    "publishDate": 1592380442310,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 1,
+    "likes": 50,
+    "views": 456,
+    "shareLink": "causas-frecuentes-del-estres-0016",
+    "category": {
+      "name": "sexuality",
+      "display": "Sexualidad"
+    },
+    "popular": true
+  },
+  {
+    "id": 17,
+    "cover": "http://localhost:5000/img/blg_1@2x.png",
+    "title": "Causas frecuentes del estrés 0017",
+    "author": "Ana María Andrade",
+    "publishDate": 1580520711783,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 4,
+    "likes": 5,
+    "views": 205,
+    "shareLink": "causas-frecuentes-del-estres-0017",
+    "category": {
+      "name": "actuality",
+      "display": "Actualidad",
+      "popular": true
+    },
+    "popular": false
+  },
+  {
+    "id": 18,
+    "cover": "https://material-ui.com/static/images/cards/contemplative-reptile.jpg",
+    "title": "Causas frecuentes del estrés 0018",
+    "author": "Ana María Andrade",
+    "publishDate": 1591809996885,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 4,
+    "likes": 4,
+    "views": 457,
+    "shareLink": "causas-frecuentes-del-estres-0018",
+    "category": {
+      "name": "sexuality",
+      "display": "Sexualidad"
+    },
+    "popular": true
+  },
+  {
+    "id": 19,
+    "cover": "http://localhost:5000/img/blg_1@2x.png",
+    "title": "Causas frecuentes del estrés 0019",
+    "author": "Ana María Andrade",
+    "publishDate": 1599194275843,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 9,
+    "likes": 28,
+    "views": 87,
+    "shareLink": "causas-frecuentes-del-estres-0019",
+    "category": {
+      "name": "trends",
+      "display": "Tendencias"
+    },
+    "popular": true
+  },
+  {
+    "id": 20,
+    "cover": "https://material-ui.com/static/images/cards/contemplative-reptile.jpg",
+    "title": "Causas frecuentes del estrés 0020",
+    "author": "Ana María Andrade",
+    "publishDate": 1587757440059,
+    "summary": "Uno de los problemas más habituales en la actualidad relacionados con el trabajo es el estrés laboral",
+    "comments": 10,
+    "likes": 44,
+    "views": 119,
+    "shareLink": "causas-frecuentes-del-estres-0020",
+    "category": {
+      "name": "technology",
+      "display": "Tecnología",
+      "popular": true
+    },
+    "popular": false
+  }
+],
+"categories": [
+  {
+    "name": "byTopic",
+    "display": "Por tema",
+    "items": [
+      {
+        "name": "covid-19",
+        "display": "Covid-19"
+      },
+      {
+        "name": "technology",
+        "display": "Tecnología",
+        "popular": true
+      },
+      {
+        "name": "actuality",
+        "display": "Actualidad",
+        "popular": true
+      },
+      {
+        "name": "psychology",
+        "display": "Psicología",
+        "popular": true
+      },
+      {
+        "name": "health",
+        "display": "Salud",
+        "popular": true
+      },
+      {
+        "name": "sexuality",
+        "display": "Sexualidad"
+      },
+      {
+        "name": "nutrition",
+        "display": "Nutrición"
+      },
+      {
+        "name": "prevention",
+        "display": "Prevención"
+      },
+      {
+        "name": "trends",
+        "display": "Tendencias"
+      },
+      {
+        "name": "innovation",
+        "display": "Innovación"
+      }
+    ]
+  },
+  {
+    "name": "populars",
+    "display": "Populares",
+    "items": [
+      {
+        "name": "technology",
+        "display": "Tecnología",
+        "popular": true
+      },
+      {
+        "name": "actuality",
+        "display": "Actualidad",
+        "popular": true
+      },
+      {
+        "name": "psychology",
+        "display": "Psicología",
+        "popular": true
+      },
+      {
+        "name": "health",
+        "display": "Salud",
+        "popular": true
+      }
+    ]
+  }
+]
+}
